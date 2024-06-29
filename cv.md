@@ -1,5 +1,5 @@
 # Lena Zyl
-![Photo](https://github.com/HellenSov/rsschool-cv/blob/gh-pages/Images/My%20photo.jpg)
+![Photo](https://github.com/HellenSov/rsschool-cv/blob/gh-pages/Images/photo.jpg)
 # CONTACT
 * [Gmail](https://lenamako@gmail.com)
 * [GitHab](https://github.com/HellenSov/)
