@@ -13,10 +13,10 @@ I am 30 years old. I have experience in various fields, but this is my first tim
 
 
 HTML, CSS, JavaScript student 
-# Code examples
+# Work experience
 
 
-.
+[CV](https://HellenSov.github.io/rsschool-cv/cv)
 # Education
 
 
