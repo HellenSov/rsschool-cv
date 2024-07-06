@@ -1,2 +1,1 @@
-# rsschool-cv
-[CV](https://HellenSov.github.io/rsschool-cv/cv)
+https://HellenSov.github.io/rsschool-cv/
